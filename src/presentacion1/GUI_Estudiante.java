@@ -22,7 +22,7 @@ public class GUI_Estudiante extends JFrame
 
         //Default window configuration
         this.setTitle("Mi ventana");
-        this.setSize(600,540);
+        this.setSize(600,560);
         this.setLocationRelativeTo(null);
         this.setVisible(true);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
